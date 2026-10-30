@@ -212,8 +212,3 @@ State: []
  
 Choose: b
 Error: Queue underflow: cannot dequeue empty LinkedQueue
-
-
-## Notes
-- Linked structures do not produce overflow since they use dynamic memory.
-- Take actual screenshots of running the program for final submission.
