@@ -11,7 +11,6 @@ This laboratory implements four fundamental data structures following the specif
 The program includes a menu‑driven driver that lets users perform operations and prints the state after each action. It properly raises exceptions for overflow and underflow.
 
 ## 📂 Files Included
-- `node.py` – Contains the shared Node class for linked structures
 - `array_stack.py` – ArrayStack implementation
 - `linked_stack.py` – LinkedStack implementation
 - `circular_array_queue.py` – CircularArrayQueue implementation
